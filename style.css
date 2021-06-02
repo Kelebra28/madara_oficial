@@ -1,0 +1,32 @@
+.my-nav {
+    margin: 0;
+    padding: 0;
+    background-color: #E7DCD6;
+}
+.my-nav > .container-fluid {
+    background-color: #e9dcd6;
+}
+.my-carrusel-main {
+    width: 50vw;
+    height: 50vh;
+}
+
+.my-carrusel-main > .carousel-inner {
+    width: 50vw;
+    height: 50vh;
+}
+.carousel-item > img {
+    width: 50vw;
+    height: 60vh;
+}
+.my-carrusel {
+    margin-top: 4rem;
+}
+
+.cards-jabones {
+    margin-top: 4rem;
+}
+
+.logo {
+    width: 100px;
+}
